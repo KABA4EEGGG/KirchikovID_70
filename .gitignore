@@ -1,0 +1,4 @@
+#ignore vscode 
+*.vsproj
+#ignore tests
+Sum_test.go
